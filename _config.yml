@@ -2,7 +2,7 @@ title:              CDN bungfrangki
 email:              halo@bungfrangki.com
 description:        A CDN Blog bungfrangki
 author:             bungfrangki
-baseurl:            "/bungfrangki.github.io"
+baseurl:            ""
 url:                "https://bungfrangki.github.io"
 
 
